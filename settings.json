@@ -1,14 +1,14 @@
 {
   "name": "!@#$%^&*()_+",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "!@#$%^&*()_+",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Minecraft_Surival.aternos.me",
-    "port": 43135,
-    "version": "1.21.1"
+    "port": 54376,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
